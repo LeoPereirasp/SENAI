@@ -68,16 +68,12 @@ Este repositório reúne os estudos práticos do curso de **Programação em Pyt
 
 ## 👨‍💻 Sobre o Autor
 
-Leonardo Gonçalves Pereira
-📍 Estudante de tecnologia e desenvolvedor em formação
-🎯 Foco atual: Aprendizado prático em Python e lógica de programação
+Leonardo Gonçalves Pereira<br>
+📍 Estudante de tecnologia e desenvolvedor em formação<br>
+🎯 Foco atual: Aprendizado prático em Python e lógica de programação<br>
 🌍 Objetivo: Ser desenvolvedor full stack e atuar com tecnologia
 
-yaml
-Copiar
-Editar
 
----
 
 ## 📬 Contato
 
