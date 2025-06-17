@@ -1,0 +1,12 @@
+nome = input('Digite sue Nome: ')
+idade = input('Digite sue Idade: ')
+cidade = input('Digite sue Cidade: ')
+estado = input('Digite sue Estado: ')
+
+# print(f"Nome: {nome}, idade: {idade}, cidade: {cidade}, estado: {estado}, Mensagem de finalização de cadastro: Cadastro Realizado com sucesso!")
+print()
+print(f"Nome:  {nome}")
+print(f"Idade:  {idade}")
+print(f"Cidade: {cidade}")
+print(f"Estado: {estado}")
+print(f"Mensagem de finalização de cadastro: Cadastro Realizado com sucesso!")
